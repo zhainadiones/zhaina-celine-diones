@@ -1,4 +1,5 @@
- <img src=" https://github.com/zhainadiones/zhaina-celine-diones/blob/74ee0973a2ed59ffb9d3a36ee58cb0496e04f7c6/Diones_Cover.png" alt="Cover Photo">
+![MasterHead](https://github.com/zhainadiones/zhaina-celine-diones/blob/ebfe3f5d27ed8cbbfaa6be9dab0e7709329a140e/Diones_Cover.png)
+ https://github.com/zhainadiones/zhaina-celine-diones/blob/ebfe3f5d27ed8cbbfaa6be9dab0e7709329a140e/Diones_Cover.png
 
 <h1 align="center">Zhaina Celine N. Diones</h1>
 
