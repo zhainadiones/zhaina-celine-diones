@@ -1,3 +1,5 @@
+ <img src=" https://github.com/zhainadiones/zhaina-celine-diones/blob/74ee0973a2ed59ffb9d3a36ee58cb0496e04f7c6/Diones_Cover.png" alt="Cover Photo">
+
 <h1 align="center">Zhaina Celine N. Diones</h1>
 
 <p align="center">
