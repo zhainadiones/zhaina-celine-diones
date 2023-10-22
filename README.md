@@ -62,6 +62,11 @@
     <br>
     2018 - 2020
   </p>
+  <p align="left">
+      <b>New Era National Highschool</b>
+    <br>
+    2014 - 2018
+  </p>
 
 <br>
 
