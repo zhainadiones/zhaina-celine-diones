@@ -72,12 +72,12 @@
 
 <h1 align="left">Certifications</h1>  
   <p align ="left">
-    <a href="https://www.datacamp.com/statement-of-accomplishment/course/419765ef49bbc057b6e3d0f50306b1e4eb3b892e?raw=1">
+    <a href="https://drive.google.com/file/d/1vZY_8QY4tCdp5NbvOF3DJPlZGYfr6xdq/view?usp=share_link">
       <br>
-      Understanding Data Engineering
+      Careers in IT
     </a>
     <br>
-    Data Camp
+    Lessons, Trend, and Opportunities in IT Industry
     <br>
-    May 01, 2022
+    Apirl 01, 2022
   </p>
