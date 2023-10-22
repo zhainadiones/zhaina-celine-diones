@@ -49,12 +49,16 @@
 
 <h1 align="left">Education</h1>
   <p align="left">
-    Bachelor of Information Technology | New Era University 
+    Bachelor of Information Technology
+    <br>
+      <b>New Era University </b>
     <br>
     2020 - Present
   </p>
   <p align="left">
-    Science, Technology, Engineering and Mathematics | Emilio Aguinaldo College-Cavite 
+    Science, Technology, Engineering and Mathematics 
+    <br>
+      <b>Emilio Aguinaldo College-Cavite </b>
     <br>
     2018 - 2020
   </p>
