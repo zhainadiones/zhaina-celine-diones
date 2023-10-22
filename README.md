@@ -37,10 +37,7 @@
     <img src="https://th.bing.com/th?id=OSK.9a1b1a0590e06697c27f2545ade09a19&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM" alt="Java" height="60"/>
   </a>
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-    <img src="INSERT_PHPMYADMIN_IMAGE_URL_HERE" alt="PHPMyAdmin" height="60"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="INSERT_ANDROID_STUDIO_IMAGE_URL_HERE" alt="Android Studio" height="60"/>
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="PHPMyAdmin" height="60"/>
   </a>
 </p>
 
