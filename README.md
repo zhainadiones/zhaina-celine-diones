@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60"/>
   </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/php_logo_icon_214645.png" alt="PHP" height="60"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" alt="PHP" height="60"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="60"/>
