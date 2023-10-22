@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/zhainadiones/zhaina-celine-diones/blob/ebfe3f5d27ed8cbbfaa6be9dab0e7709329a140e/Diones_Cover.png)
+![MasterHead](https://github.com/zhainadiones/zhaina-celine-diones/blob/ac08e683dff4d0e0136fc8d7eab3a72f9ca449fd/Diones_GitHub-cover.png)
 
 <h1 align="center">Zhaina Celine N. Diones</h1>
 
