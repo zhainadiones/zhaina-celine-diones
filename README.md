@@ -53,6 +53,11 @@
     <br>
     2020 - Present
   </p>
+  <p align="left">
+    Science, Technology, Engineering and Mathematics | Emilio Aguinaldo College-Cavite 
+    <br>
+    2018 - 2020
+  </p>
 
 <br>
 
