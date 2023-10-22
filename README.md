@@ -81,3 +81,25 @@
     <br>
     Apirl 01, 2022
   </p>
+
+   <p align ="left">
+    <a href="https://drive.google.com/file/d/1ql8j5ZoI83fU5QIhmJ8xXXv2LgoB3HL9/view?usp=sharing">
+      <br>
+      RPA: Robotics Process Automation
+    </a>
+    <br>
+    Lessons, Trend, and Opportunities in IT Industry
+    <br>
+    Apirl 01, 2022
+  </p>
+
+   <p align ="left">
+    <a href="https://drive.google.com/file/d/1ZGM-qQcbWs-0OOMnf8Sfqebj99-qAfNC/view?usp=share_link">
+      <br>
+      Microsoft Power Apps
+    </a>
+    <br>
+    Lessons, Trend, and Opportunities in IT Industry
+    <br>
+    Apirl 01, 2022
+  </p>
