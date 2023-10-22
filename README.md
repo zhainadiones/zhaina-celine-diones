@@ -24,6 +24,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60"/>
   </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src=" https://freepngimg.com/thumb/php/6-2-php-logo-png-image.png" alt="CSS" height="60"/>
+  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="60"/>
   </a>
